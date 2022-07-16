@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'mulish';
+    src: url('Mulish-VariableFont_wght.ttf')
+}
+
+.clr {
+    clear: both;
+}
+
+li {
+    list-style: none;
+    margin-left: 30px;
+    float: right;
+    font-family: sans-serif;
+    color: #000;
+    opacity: 0.6;
+    font-size: 13px;
+    font-weight: 700;
+
+}
+
+.current {
+    opacity: 1;
+    border: 2px solid #000;
+    padding: 10px 25px;
+    margin-top: -10px;
+
+}
+
+.nav {
+    width: 80%;
+    margin: 0 auto;
+    background: #fff;
+    margin-top: 30px;
+    height: 47px;
+}
+
+.btn1 {
+    margin-top: 20px;
+    background-color: #333c67;
+    color: #fff;
+    border: 1px solid white;
+
+}
+
+.part1,
+.part2 {
+    display: inline-block;
+    color: #fff;
+
+
+}
+
+.part1 {
+    float: left;
+
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: #333c67;
+    padding-top: 90px;
+    height: 400px;
+}
+
+.part1 h1 {
+    width: 350px;
+    font-size: 40px;
+    line-height: 50px;
+    font-size: 50px;
+    margin-bottom: 30px;
+
+}
+
+.part1 p {
+    width: 480px;
+    font-family: 'mulish';
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+.image {
+    width: 450px;
+    float: right;
+    margin-right: -610px;
+
+}
+
+.hr1 {
+    height: 0px;
+    width: 100px;
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+}
+
+.bgleft {
+    position: relative;
+    float: left;
+    margin-top: -150px;
+    width: 150px;
+}
+
+.bgright {
+    position: relative;
+    float: right;
+    margin-top: -490px;
+    width: 315px;
+}
+
+.content2 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card {
+
+    width: 25%;
+    margin: 0 auto;
+    width: 300px;
+
+
+}
+
+.card3 {
+    float: right;
+    margin-top: -179px;
+}
+
+.card1 {
+    float: left;
+}
+
+.card2 {
+    float: none;
+    width: 320px;
+}
+
+.card h3 {
+    font-size: 22px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-family: 'mulish';
+    opacity: 0.7;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.card img {
+    width: 50px;
+}
+
+.hr2 {
+    height: 0px;
+    width: 100px;
+    border: 1px solid #455c75;
+    margin-bottom: 40px;
+    margin-top: -30px;
+}
+
+.content2 h1 {
+    margin-bottom: 0;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+.content3 {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #333c67;
+    height: 200px;
+    margin-top: 100px;
+    color: #fff;
+}
+
+.content3 h1 {
+    float: left;
+    width: 320px;
+    font-size: 37px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.content3 button {
+    float: right;
+    background-color: #333c67;
+    color: #fff;
+    border: 1px solid white;
+    color: #fff;
+    padding: 10px 25px;
+    margin-top: 75px;
+    margin-right: 70px;
+}
+
+.bg-img {
+    position: relative;
+    float: right;
+    margin-top: -200px;
+    margin-right: 135px;
+    width: 350px;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: #ebece665;
+    padding-top: 30px;
+    height: 300px;
+}
+
+.icon {
+    float: right;
+    margin-left: 15px;
+
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background: #000;
+    opacity: 0.3;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content4 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.low {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.part {
+    display: inline-block;
+    font-family: 'mulish';
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 30px;
+    margin-left: 150px;
+    text-align: left;
+    font-weight: 700;
+    opacity: 0.8;
+}
+
+.part span {
+    opacity: 0.4;
+    margin-bottom: 25px;
+}
+
+.part01 {
+    width: 115px;
+    margin-left: -220px;
+}
+
+.part02 {
+    width: 110px;
+}
+
+.part3,
+.part4 {
+    width: 90px;
+}
+
+.none {
+    color: #dee2d6;
+}
+
+.bgfooter {
+    width: 400px;
+    position: relative;
+    float: left;
+    margin-top: -330px;
+}
+
+button:active {
+    background-color: #fff;
+    color: #333c67;
+}
+/*Don't copy*/
